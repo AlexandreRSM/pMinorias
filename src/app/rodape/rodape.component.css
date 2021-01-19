@@ -25,3 +25,10 @@ ul.social-network li{
 .fa-twitter:hover{
     color:lightskyblue;
 }
+
+footer{
+    position:absolute;
+    bottom: 0px;
+    width: 100%;
+
+}
