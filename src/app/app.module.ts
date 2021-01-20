@@ -7,6 +7,7 @@ import { MenuComponent } from './menu/menu.component';
 import { RodapeComponent } from './rodape/rodape.component';
 import { ConteudoComponent } from './conteudo/conteudo.component';
 import { CardsComponent } from './cards/cards.component';
+import { ReferenciasComponent } from './referencias/referencias.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { CardsComponent } from './cards/cards.component';
     MenuComponent,
     RodapeComponent,
     ConteudoComponent,
-    CardsComponent
+    CardsComponent,
+    ReferenciasComponent
   ],
   imports: [
     BrowserModule,
